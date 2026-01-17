@@ -1,0 +1,12 @@
+<resources>
+    <color name="bg">#FFF7F7FB</color>
+    <color name="on_bg">#FF111827</color>
+
+    <color name="on_surface">#FF111827</color>
+    <color name="muted">#FF6B7280</color>
+
+    <color name="md_theme_light_primary">#FF4F46E5</color>
+    <color name="md_theme_light_onPrimary">#FFFFFFFF</color>
+    <color name="md_theme_light_secondary">#FF0EA5E9</color>
+    <color name="md_theme_light_onSecondary">#FFFFFFFF</color>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">VisiOnAir Radio</string>
+    <string name="now_on_air">IN ONDA ORA</string>
+    <string name="hint">Riproduzione continua anche a schermo spento (con notifica di sistema).</string>
+
+    <string name="status_ready">Pronto</string>
+    <string name="status_playing">In riproduzione</string>
+    <string name="status_paused">In pausa</string>
+    <string name="status_error">Errore di riproduzione / rete</string>
+
+    <string name="play">Play</string>
+    <string name="pause">Pausa</string>
+
+    <string name="source_fmt">Fonte: %1$s</string>
+</resources>
